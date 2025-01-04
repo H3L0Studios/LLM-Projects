@@ -1,0 +1,2 @@
+I have presented this project in both Jupyter Notebook format and a executable Python file. This relies on a properly setup .env file and uses Gradio for an interface.
+It also uses text to speech to have the AI talk. I create a simple tool representing an inventory. This could be expanded to integrate with a database or spreadsheet giving the AI some intelligence about pricing, inventory etc.
