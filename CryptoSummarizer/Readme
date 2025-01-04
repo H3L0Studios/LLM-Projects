@@ -1,0 +1,2 @@
+This notebook pulls the top 50 cryptocurrency performance for the last 7 days as JSON, formats it into a prompt, and passes it to GPT 4o mini to get a summary 
+in the format of a newsletter (using Markdown) highlighting the past weeks crypto winners. 
