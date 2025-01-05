@@ -1,0 +1,1 @@
+This project was done in Google Collab on a T4 GPU machine. It takes in an MP3 file, converts it to text, then passes it to an AI model to summarize it. 
